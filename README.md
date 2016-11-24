@@ -19,3 +19,8 @@ check out chapter 7 of [LearnAir, a master's thesis](https://www.davidbramsay.co
 + [jupyter notebooks used in data pre-processing, machine learning, and plot generation](https://github.com/dramsay9/learnair-data-crunching)(with raw data)
 + [a quick video introducing the learnAir concept](https://vimeo.com/188586371)
 + [the original ChainAPI project](https://github.com/ResEnv/chain-api)
+
+
+#
+### Contact
+dramsay@mit.edu
